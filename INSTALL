@@ -1,0 +1,9 @@
+Building FrenchCoin
+
+See doc/readme-qt.rst for instructions on building FrenchCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FrenchCoin.
+
+See doc/build-*.txt for instructions on building frenchcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FrenchCoin.
